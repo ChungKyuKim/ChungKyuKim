@@ -15,8 +15,10 @@ True life is lived when tiny changes occur.
 ![styled-components](https://img.shields.io/badge/styled-components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungKyuKim&theme=calm&show_icons=true)
+<div align=" center" >
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungKyuKim&theme=calm&show_icons=true) -->
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ChungKyuKim&theme=calm&show_icons=true"/>
+</div>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChungKyuKim&count_bg=%23FCE005&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
