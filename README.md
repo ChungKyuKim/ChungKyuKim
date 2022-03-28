@@ -1,5 +1,5 @@
 ## ChungKyu Kim 🥴
-I am you Man~
+
 
 ## Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
@@ -17,6 +17,9 @@ I am you Man~
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChungKyuKim&count_bg=%23FCE005&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📬 Contact
+![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dovra_/)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white&link=mailto=:chungkyukim7@gmail.com)
+
 <!--
 **ChungKyuKim/ChungKyuKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
